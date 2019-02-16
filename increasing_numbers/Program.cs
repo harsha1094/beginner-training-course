@@ -12,11 +12,16 @@ namespace increasing_numbers
             {   
                 int a=i;     
                 for (int j = 1; j <= a; j++)
-                {
-                    Console.Write("{0} ",j);
+                {   
+                    if (j==a)
+                        {
+                            Console.Write("{0} ",j);
+                            break;
+                        }
+                    Console.Write("{0}*",j);                   
                 }
                 Console.WriteLine();
             }
-        }
+        }    
     }
 }
