@@ -1,0 +1,5 @@
+
+Start new c# project - dotnet new console -0 <Enter Project Name Here>  (Type this in the explorer cmd)
+
+build project - dotnet build
+run project - dotnet run

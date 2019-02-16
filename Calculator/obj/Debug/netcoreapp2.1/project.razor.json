@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Tandemloop\\PROJECTS\\Git\\beginner-training-course\\Calculator\\Calculator.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

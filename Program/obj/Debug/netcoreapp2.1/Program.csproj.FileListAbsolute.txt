@@ -1,0 +1,11 @@
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.csprojAssemblyReference.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.csproj.CoreCompileInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfoInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.AssemblyInfo.cs
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\bin\Debug\netcoreapp2.1\Program.deps.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\bin\Debug\netcoreapp2.1\Program.runtimeconfig.dev.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\bin\Debug\netcoreapp2.1\Program.dll
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\bin\Debug\netcoreapp2.1\Program.pdb
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.dll
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program\obj\Debug\netcoreapp2.1\Program.pdb

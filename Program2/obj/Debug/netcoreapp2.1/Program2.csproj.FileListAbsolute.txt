@@ -1,0 +1,4 @@
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program2\obj\Debug\netcoreapp2.1\Program2.csprojAssemblyReference.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program2\obj\Debug\netcoreapp2.1\Program2.csproj.CoreCompileInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program2\obj\Debug\netcoreapp2.1\Program2.AssemblyInfoInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Program2\obj\Debug\netcoreapp2.1\Program2.AssemblyInfo.cs
