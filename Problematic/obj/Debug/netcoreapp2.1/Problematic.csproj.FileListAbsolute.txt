@@ -1,0 +1,11 @@
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\bin\Debug\netcoreapp2.1\Problematic.deps.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\bin\Debug\netcoreapp2.1\Problematic.runtimeconfig.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\bin\Debug\netcoreapp2.1\Problematic.runtimeconfig.dev.json
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\bin\Debug\netcoreapp2.1\Problematic.dll
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\bin\Debug\netcoreapp2.1\Problematic.pdb
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.csprojAssemblyReference.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.csproj.CoreCompileInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.AssemblyInfoInputs.cache
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.AssemblyInfo.cs
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.dll
+D:\Tandemloop\PROJECTS\Git\beginner-training-course\Problematic\obj\Debug\netcoreapp2.1\Problematic.pdb
